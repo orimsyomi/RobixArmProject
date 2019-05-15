@@ -1,3 +1,0 @@
-[submodule "src/ejml"]
-	path = src/ejml
-	url = https://github.com/lessthanoptimal/ejml.git
